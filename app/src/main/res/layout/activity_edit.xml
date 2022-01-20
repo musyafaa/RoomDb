@@ -11,7 +11,7 @@
         android:id="@+id/edit_title"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
-        android:hint="Tambahkan Judul"
+        android:hint="Nama Siswa"
         android:layout_marginStart="16dp"
         android:layout_marginTop="88dp"
         android:layout_marginEnd="16dp"
